@@ -16,6 +16,7 @@ Download the dataset from Stanford's SNAP repository:
 
 ```sh
 wget https://snap.stanford.edu/data/p2p-Gnutella08.txt.gz
+gzip -d p2p-Gnutella08.txt.gz
 ```
 
 ## Build Instructions
